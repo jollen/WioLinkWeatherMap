@@ -21,4 +21,6 @@
 
 ![建立分支](https://cloud.githubusercontent.com/assets/1126021/12673145/e57dd482-c6b5-11e5-8f73-7b9aa583579c.png)
 
+## Step 4: 瀏覽網頁
 
+![瀏覽網頁](https://cloud.githubusercontent.com/assets/1126021/12673232/6221a770-c6b6-11e5-82a4-6962b55c1efe.png)
