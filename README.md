@@ -14,6 +14,11 @@
 
 ![修改 Wio Link REST API](https://cloud.githubusercontent.com/assets/1126021/12672980/db086400-c6b4-11e5-822e-9432284afecb.png)
 
-## Step 3: 線上瀏覽
+## Step 3: 建立 gh-pages 分支
 
-(TBD)
+* 建立名為 gh-pages 的分支
+* 有了這個分支，就能直接將 GitHub 當成專案網站使用
+
+![建立分支](https://cloud.githubusercontent.com/assets/1126021/12673145/e57dd482-c6b5-11e5-8f73-7b9aa583579c.png)
+
+
